@@ -2,6 +2,7 @@
 
 Exo2bis
 Exo2
+fix release
 
 # Spring PetClinic Sample Application
 
